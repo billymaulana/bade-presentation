@@ -1,10 +1,14 @@
 @font-face {
-   font-family: "Another Typewriter";
-   src: url('../atwriter.woff');
+   font-family: 'ardeco';
+   src: url('../Ardeco.ttf');
 }
 @font-face {
-   font-family: "JackRunnerFree";
-   src: url('../JackRunnerFree.ttf');
+   font-family: "DK MAJOLICA";
+   src: url('../DKMajolica.otf');
+}
+@font-face {
+   font-family: "ristretto pro";
+   src: url('../RistrettoPro-Regular.otf');
 }
 
 
